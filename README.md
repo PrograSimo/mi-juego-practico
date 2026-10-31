@@ -55,5 +55,5 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
-Backend / Server API: Ver repositorio del Servidor NestJS
- - https://github.com/PrograSimo/mi-juego-servidor
+## Backend / Server API:
+Backend / Server API: [Ver repositorio del Servidor NestJS](https://github.com/PrograSimo/mi-juego-servidor)
